@@ -33,6 +33,6 @@ Codecademy instructions :
 :heavy_check_mark: This project was validated on March 22, 2023.
 
 ## Contact
-* [Email](mailto:auger.michaell@gmail.com)
-* [GitHub](https://github.com/ByronMike)
-* [LinkedIn](https://www.linkedin.com/in/auger-michael/)
+* [Email](mailto:charlene.hoareau@outlook.com)
+* [GitHub](https://github.com/charlella)
+* [LinkedIn](https://www.linkedin.com/in/charl%C3%A8ne-hoareau-0ab5b55b/)
